@@ -1,0 +1,23 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "电子货币搬砖",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengle123/banZhuan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chengle123/banZhuan/issues"
+  },
+  "homepage": "https://github.com/chengle123/banZhuan#readme",
+  "devDependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
